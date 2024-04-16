@@ -27,6 +27,9 @@ SHAGEE MD යනු ඔබට සරලව ක්ශනිකව සෑදිය
 📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
 
 
+
+තවම හෙරොකු වලින් විතරයි දීල තියෙන්නෙ පස්සෙ රිප්ලිට් වලින් දෙන්නම්
+
 SHAGEE whatsapp bot is,
 
    SHAGEE whatsapp bot is an easy to use whatsapp robot.   |  SHAGEE whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
