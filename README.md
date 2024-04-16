@@ -16,5 +16,19 @@ SHAGEE MD යනු ඔබට සරලව ක්ශනිකව සෑදිය
     <img src="https://telegra.ph/file/0bc5c54c51edf341a279b.jpg"  width="700px">
 </a>
 	   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+SHAGEE+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+SHAGEE+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+SHAGEE TAEM;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒SHAGEE࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+[## THE THREE STEPS TO MAKE THE BOT
+	
+📌 FIRST FORK THE REPO.
+
+📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
+
+📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.
+
+📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
+
+
+SHAGEE whatsapp bot is,
+
+   SHAGEE whatsapp bot is an easy to use whatsapp robot.   |  SHAGEE whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+
 
