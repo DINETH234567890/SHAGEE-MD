@@ -31,4 +31,8 @@ SHAGEE whatsapp bot is,
 
    SHAGEE whatsapp bot is an easy to use whatsapp robot.   |  SHAGEE whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
+  
+<div align="center">    
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＣＬＩＣＫ+ＴＯ+ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
 
