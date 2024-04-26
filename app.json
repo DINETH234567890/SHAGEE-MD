@@ -1,71 +1,40 @@
 {
-    "name": "S H A G E E - M D WhatsApp Bot",
-    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/DINETH234567890/SHAGEE-MD/tree/main",
-    "logo": "https://telegra.ph/file/0bc5c54c51edf341a279b.jpg",
-    "keywords": [
-        "nodejs",
-        "Bot",
-        "WhatsApp Bot",
-        "WhatsApp Automation",
-        "Multi Device"
-    ],
-    "env": {
-    "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
-            "required": true,
-            "value": ""
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
-            "required": true,
-            "value": ""
-        },
-        "MONGO_DB": {
-            "description": "your mongodb database url",
-            "required": true,
-            "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
-        },
-        "LOGO": {
-            "description": "Put your logo url here",
-            "required": true,
-            "value": "https://telegra.ph/file/0bc5c54c51edf341a279b.jpg"    
-        },
-        "TYPEMENU": {
-            "description": "choose menu type from v1 to v5",
-            "required": false,
-            "value": "v1"
+  "name": "SHAGEE-MD (v.1.0)",
+  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "success_url": "/",
 
-        },
-        "AUTO_BLOCK_ENABLED": {
-            "description": "Enable auto block feature for +212",
-            "required": false,
-            "value": "true"
-}
-  },
-   "buildpacks": [
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "PASSWORD": {
+      "description": "Enter a password of your choice here",
+      "required": true
+    },
+
+    "SESSION_ID": {
+      "description": "Enter session-id here",
+      "required": false
+    },
+    
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github auth-token here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        },
-        {
-            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
         }
-    ],
-    "addons": [
-        {
-            "plan": "heroku-postgresql",
-            "options": {
-                "version": "13"
-            }
-        }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "standard-2x"
-        }
-    }
+     ],
+  "stack": "heroku-22"
 }
